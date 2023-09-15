@@ -1,7 +1,6 @@
 ## 👋 Hey, This is MO7YW4NG.
 
-- 🔭 Currently working on Minecraft [Spigot Plugin Development](https://github.com/SpigotMC)
-- 🌱 Currently learning in Java
+- 🌱 Currently learning in Python, Java & Kotlin
 
 ## :mag: Contact
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MO7YW4NG)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/100003917165485)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Luguo1230/)  
